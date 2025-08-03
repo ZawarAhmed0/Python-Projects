@@ -18,7 +18,7 @@ pip package manager
 Setup Instructions
 
 Clone the repository
-bashgit clone https://github.com/yourusername/tv-ad-budget-predictor.git
+bash git clone https://github.com/ZawarAhmed0/Python-Projects.git
 cd tv-ad-budget-predictor
 
 Create virtual environment
@@ -158,7 +158,7 @@ Open a Pull Request
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Contact
-Project Link: https://github.com/ZawarAhmed0/Python-Projects/tv-ad-budget-predictor
+Project Link: https://github.com/ZawarAhmed0/Python-Projects/TV-Ad-Budget-Predictor
 Acknowledgments
 
 Inspired by the classic advertising dataset used in statistical learning
