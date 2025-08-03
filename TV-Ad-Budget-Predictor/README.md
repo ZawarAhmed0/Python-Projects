@@ -158,7 +158,7 @@ Open a Pull Request
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Contact
-Project Link: https://github.com/ZawarAhmed0/Python-Projects/TV-Ad-Budget-Predictor
+Project Link: https://github.com/ZawarAhmed0/Python-Projects/tree/main/TV-Ad-Budget-Predictor
 Acknowledgments
 
 Inspired by the classic advertising dataset used in statistical learning
