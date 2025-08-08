@@ -5,7 +5,7 @@ TV Ad Budget Predictor - Machine Learning Project
 A comprehensive machine learning solution for predicting sales based on TV advertising budget
 using K-Nearest Neighbors (KNN) regression algorithm.
 
-Author: Zawar Ahmec Nabeel
+Author: Zawar Ahmed Nabeel
 Date: 8/3/2025
 Version: 1.0
 """
